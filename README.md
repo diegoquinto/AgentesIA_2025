@@ -2,7 +2,7 @@
 Projeto Instituto 2A2<br>
 Repositório criado para compartilhar o trabalho do Grupo de Trabalho<br>
 Grupo de Trabalho formado por:<br>
-Herbert –hbrjunior@outlook.com 
+Herbert –hbrjunior@outlook.com <br>
 Diego – diegoquinto@gmail.com  
 Marcio – marciomco@hotmail.com  
 Evandro – evandro.amparo@gmail.com  
