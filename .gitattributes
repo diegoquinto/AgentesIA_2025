@@ -1,0 +1,10 @@
+@"
+# Arquivos binários: nunca converter fim de linha
+*.docx -text
+*.xlsx -text
+*.pdf  -text
+*.zip  -text
+*.pptx -text
+*.png  -text
+*.jpg  -text
+"@ | Out-File -Encoding utf8 .gitattributes
