@@ -1,6 +1,6 @@
 # 🪪 Licença
-Distribuído sob a licença MIT License.
-Veja o arquivo LICENSE para mais detalhes.
+Distribuído sob a licença **MIT License**.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 # 🤖 Agente Fiscal – Projeto Final I2A2
 
