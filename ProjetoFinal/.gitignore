@@ -1,0 +1,74 @@
+# CSV files
+*.csv
+
+# Python generated files
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Arquivos sensíveis
+*.key
+*.pem
+
+@"
+# Python / credenciais
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# IDE/cache
+.vscode/
+.idea/
+
+# Chaves
+*.key
+*.pem
+"@ | Out-File -Encoding utf8 -Append .gitignore
