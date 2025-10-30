@@ -51,3 +51,24 @@ Thumbs.db
 # Arquivos sensíveis
 *.key
 *.pem
+
+@"
+# Python / credenciais
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# IDE/cache
+.vscode/
+.idea/
+
+# Chaves
+*.key
+*.pem
+"@ | Out-File -Encoding utf8 -Append .gitignore
