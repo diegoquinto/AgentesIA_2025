@@ -1,0 +1,9 @@
+python-dotenv
+pandas
+streamlit
+langchain
+langchain-openai
+langchain-community
+xmltodict
+sqlite3-binary; platform_system=='Windows'
+

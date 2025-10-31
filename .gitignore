@@ -1,3 +1,6 @@
+# CSV files
+*.csv
+
 # Python generated files
 venv/
 __pycache__/
@@ -20,6 +23,13 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database files
+*.db
+*.sqlite3
 
 # Environment files
 .env
@@ -37,3 +47,7 @@ ENV/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Arquivos sensíveis
+*.key
+*.pem
